@@ -1,0 +1,84 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Portfolio</title>
+
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./static/css/normalize.min.css ">
+    <link rel="stylesheet" href="./static/css/style.css ">
+
+    <!--[if lt IE 9]>
+    <script async src="http://html5shiv.googlecoede.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="mobile-nav">
+      <a href="#"><i class="fa fa-bars fa-2x"></i></a>
+    </div>
+    <div class="side-nav">
+      <h1 class="title"><a href="./index.html">Portfolio</a></h1>
+      <nav>
+        <ul>
+          <li><a href="./analysis">Analysis</a></li>
+          <li><a href="./apps">Apps</a></li>
+          <li><a href="./courses">Courses</a></li>
+        </ul>
+      </nav>
+      <div class="nav-icons">
+        <a title="Resume" href="./static/resume/jacob_Govshteyn_resume_10212015.pdf"><i class="fa fa-file-text fa-2x"></i></a>	
+        <a title="GitHub" href="https://github.com/yasha0b1"><i class="fa fa-github-square fa-2x"></i></a>
+        <a title="Linkedin" href="https://www.linkedin.com/pub/jacob-govshteyn/ab/6a/b58"><i class="fa fa-linkedin-square fa-2x"></i></a>
+        <a title="Kaggle" href="https://www.kaggle.com/yasha0b1"><i class="fa fa-kaggle fa-2x"></i></a>
+      </div>
+    </div>
+
+    <div class="main-container">
+      <div class="main wrapper clearfix">
+        <article>
+          <header>Data Apps</header>
+          <section>
+            
+<div>Data products developed using Shiny, R packages, and interactive graphics.</div>
+<div class="apps">
+  <div class="image-container rounded-corners">
+    <a href="https://jacob-govshteyn.shinyapps.io/NextWordKnModel"><img src="./static/images/apps/NextWordPrediction.jpg"></a>
+  </div>
+  <strong>Next word Prediction Application</strong> <i>N-Gram language models with Kneser-Ney smoothing</i><br />
+</div>
+<div class="apps">
+  <div class="image-container rounded-corners">
+    <a href="https://jacob-govshteyn.shinyapps.io/BTCAddressExplorer"><img src="./static/images/apps/BTCAddressExplorer.jpg"></a>
+  </div>
+  <strong>Bitcoin Address Explorer Application</strong> <i>A shiny application for visualizing Transactions of a bitcoin address</i><br />
+</div>
+
+          </section>
+        </article>
+      </div> <!-- #main -->
+    </div> <!-- #main-container -->
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="./static/js/vendor/jquery-2.1.0-min.js"><\/script>')</script>
+    <script async src="./static/js/responsive.js"></script>
+    
+    
+  <!--
+  <script>
+  (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+  function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+  e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+  e.src='//www.google-analytics.com/analytics.js';
+  r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+  ga('create','UA-XXXXX-X');ga('send','pageview');
+  </script>
+  -->
+  </body>
+</html>

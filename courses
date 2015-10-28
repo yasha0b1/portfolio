@@ -1,0 +1,155 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Portfolio</title>
+
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./static/css/normalize.min.css ">
+    <link rel="stylesheet" href="./static/css/style.css ">
+
+    <!--[if lt IE 9]>
+    <script async src="http://html5shiv.googlecoede.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="mobile-nav">
+      <a href="#"><i class="fa fa-bars fa-2x"></i></a>
+    </div>
+    <div class="side-nav">
+      <h1 class="title"><a href="./index.html">Portfolio</a></h1>
+      <nav>
+        <ul>
+          <li><a href="./analysis">Analysis</a></li>
+          <li><a href="./apps">Apps</a></li>
+          <li><a href="./courses">Courses</a></li>
+        </ul>
+      </nav>
+      <div class="nav-icons">
+        <a title="Resume" href="./static/resume/jacob_Govshteyn_resume_10212015.pdf"><i class="fa fa-file-text fa-2x"></i></a>	
+        <a title="GitHub" href="https://github.com/yasha0b1"><i class="fa fa-github-square fa-2x"></i></a>
+        <a title="Linkedin" href="https://www.linkedin.com/pub/jacob-govshteyn/ab/6a/b58"><i class="fa fa-linkedin-square fa-2x"></i></a>
+        <a title="Kaggle" href="https://www.kaggle.com/yasha0b1"><i class="fa fa-kaggle fa-2x"></i></a>
+      </div>
+    </div>
+
+    <div class="main-container">
+      <div class="main wrapper clearfix">
+        <article>
+          <header>courses</header>
+          <section>
+             <p>Completed Courses and Certificates</p>
+
+<p><a href="https://www.coursera.org/account/accomplishments/certificate/CLAK3UA29Z"><strong>Data Science Capstone</strong></a>
+<em>Johns Hopkins University on Coursera</em> </p>
+
+<blockquote>
+  <p>Certificate earned on August 29, 2015</p>
+</blockquote>
+
+<p><a href="./static/certificates/RoboticVision.pdf "><strong>Robotic Vision</strong></a>
+<em>Queensland University of Technology</em> </p>
+
+<blockquote>
+  <p>Certificate earned on June 11, 2015</p>
+</blockquote>
+
+<p><a href="./static/certificates/IntroductionToRobotics.pdf "><strong>Introduction to robotics</strong></a>
+<em>Queensland University of Technology</em> </p>
+
+<blockquote>
+  <p>Certificate earned on May 12, 2015</p>
+</blockquote>
+
+<p><a href="https://www.coursera.org/account/accomplishments/records/PBjWhEwtBdPRaATx"><strong>Developing Data Products</strong></a>
+<em>Johns Hopkins University on Coursera</em> </p>
+
+<blockquote>
+  <p>Certificate earned on May 3, 2015</p>
+</blockquote>
+
+<p><a href="https://www.coursera.org/account/accomplishments/verify/GP4U6CLDP2"><strong>Practical Machine Learning</strong></a>
+<em>Johns Hopkins University on Coursera</em> </p>
+
+<blockquote>
+  <p>Certificate earned on March 1, 2015</p>
+</blockquote>
+
+<p><a href="https://www.coursera.org/account/accomplishments/certificate/DVY8URP3Y3"><strong>Regression Models</strong></a>
+<em>Johns Hopkins University on Coursera</em></p>
+
+<blockquote>
+  <p>Certificate earned on February 1, 2015</p>
+</blockquote>
+
+<p><a href="https://www.coursera.org/account/accomplishments/certificate/YRWCYDSLK7"><strong>Reproducible Research</strong></a>
+<em>Johns Hopkins University on Coursera</em></p>
+
+<blockquote>
+  <p>Certificate earned on December 27, 2014</p>
+</blockquote>
+
+<p><a href="https://www.coursera.org/account/accomplishments/verify/7KD724A8FQ"><strong>Statistical Inference</strong></a>
+<em>Johns Hopkins University on Coursera</em></p>
+
+<blockquote>
+  <p>Certificate earned on December 27, 2014</p>
+</blockquote>
+
+<p><a href="https://www.coursera.org/account/accomplishments/verify/PR93TA2M6B"><strong>Exploratory Data Analysis</strong></a>
+<em>Johns Hopkins University on Coursera</em></p>
+
+<blockquote>
+  <p>Certificate earned on November 30, 2014</p>
+</blockquote>
+
+<p><a href="https://www.coursera.org/account/accomplishments/certificate/85K6QR8YLX"><strong>Getting and Cleaning Data</strong></a>
+<em>Johns Hopkins University on Coursera</em></p>
+
+<blockquote>
+  <p>Certificate earned on November 30, 2014</p>
+</blockquote>
+
+<p><a href="https://www.coursera.org/account/accomplishments/certificate/EBHWVH7Y6H"><strong>R Programming</strong></a>
+<em>Johns Hopkins University on Coursera</em></p>
+
+<blockquote>
+  <p>Certificate earned on November 2, 2014</p>
+</blockquote>
+
+<p><a href="https://www.coursera.org/account/accomplishments/certificate/QFNXVMD8E9"><strong>The Data Scientist’s Toolbox</strong></a>
+<em>Johns Hopkins University on Coursera</em></p>
+
+<blockquote>
+  <p>Certificate earned on November 2, 2014</p>
+</blockquote>
+ 
+          </section>
+        </article>
+      </div> <!-- #main -->
+    </div> <!-- #main-container -->
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="./static/js/vendor/jquery-2.1.0-min.js"><\/script>')</script>
+    <script async src="./static/js/responsive.js"></script>
+    
+    
+  <!--
+  <script>
+  (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+  function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+  e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+  e.src='//www.google-analytics.com/analytics.js';
+  r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+  ga('create','UA-XXXXX-X');ga('send','pageview');
+  </script>
+  -->
+  </body>
+</html>
