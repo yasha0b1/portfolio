@@ -46,14 +46,6 @@
           <header>courses</header>
           <section>
              <p>Completed Courses and Certificates</p>
-
-<p><a href="https://www.coursera.org/account/accomplishments/certificate/CLAK3UA29Z"><strong>Data Science Capstone</strong></a>
-<em>Johns Hopkins University on Coursera</em> </p>
-
-<blockquote>
-  <p>Certificate earned on August 29, 2015</p>
-</blockquote>
-
 <p><a href="./static/certificates/RoboticVision.pdf "><strong>Robotic Vision</strong></a>
 <em>Queensland University of Technology</em> </p>
 
@@ -66,6 +58,13 @@
 
 <blockquote>
   <p>Certificate earned on May 12, 2015</p>
+</blockquote>
+
+<p><a href="https://www.coursera.org/account/accomplishments/certificate/CLAK3UA29Z"><strong>Data Science Capstone</strong></a>
+<em>Johns Hopkins University on Coursera</em> </p>
+
+<blockquote>
+  <p>Certificate earned on August 29, 2015</p>
 </blockquote>
 
 <p><a href="https://www.coursera.org/account/accomplishments/records/PBjWhEwtBdPRaATx"><strong>Developing Data Products</strong></a>
